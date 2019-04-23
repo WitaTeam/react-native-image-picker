@@ -1,6 +1,8 @@
 package com.imagepicker;
 
-import android.support.annotation.StyleRes;
+
+import androidx.annotation.StyleRes;
+
 
 import com.facebook.react.ReactPackage;
 import com.facebook.react.bridge.JavaScriptModule;
